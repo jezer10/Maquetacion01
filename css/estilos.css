@@ -1,0 +1,46 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body {
+
+}
+
+#content{
+	width: 1000px;
+	height: 800px;
+	background-color: black;
+	margin: 0 auto;
+}
+#banner{
+	width: 1000px;
+	height: 250px;
+	background-color: rgb(66, 120, 190);
+}
+#logo{
+	width: 200px;
+	height: 200px;
+	background-color: rgb(241, 95, 95);
+}
+#menu{
+	width: 1000px;
+	height: 50px;
+	background-color: rgb(173, 226, 118);
+}
+#article{
+	width: 700px;
+	height: 500px;
+	background: rgb(190, 84, 184);
+}
+#aside {
+	width: 1000px;
+	height: 550px;
+	background-color: rgb(226, 157, 36);
+	float: right;
+}
+#footer {
+	
+	width: 1000px;
+	height: 50px;
+	background-color:rgb(229, 223, 15);
+}
